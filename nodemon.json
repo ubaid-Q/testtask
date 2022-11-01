@@ -1,0 +1,4 @@
+{
+    "ext": ".js,.json,.yaml",
+    "ignore": ["*/node_modules/", "./swagger_output.json", "./swagger_output","*/uploads/"]
+}
